@@ -1,4 +1,4 @@
  /.vscode/
- /input.txt
- /test
- /output.txt
+ *.txt
+ test
+ 
